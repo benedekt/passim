@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>W62430/WZZ7390</name>
+    <description></description>
+    <Folder>
+      <name>Route</name>
+      <Placemark>
+        <name>2023-10-18 07:36:24 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>0 ft</span></div>
+<div><span><b>Speed:</b></span> <span>0 kt</span></div>
+<div><span><b>Heading:</b></span> <span>106&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2023-10-18T07:36:24+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>106</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>28.746788,41.264172,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2023-10-18 07:37:27 UTC</name>
+        <description><![CDATA[<div><div><span><b>Altitude:</b></span> <span>0 ft</span></div>
+<div><span><b>Speed:</b></span> <span>0 kt</span></div>
+<div><span><b>Heading:</b></span> <span>109&deg;</span></div>
+</div>]]></description>
+        <TimeStamp>
+          <when>2023-10-18T07:37:27+00:00</when>
+        </TimeStamp>
+        <Style>
+          <IconStyle>
+            <heading>109</heading>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>28.746336,41.264275,0</coordinates>
+        </Point>
+      </Placemark>
+  </Folder>
+</Document>
+</kml>
